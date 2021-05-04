@@ -13,3 +13,4 @@ hello first use gitHub
 good  git-exe
 second
 跨团队协作开发 by
+ssh 验证
